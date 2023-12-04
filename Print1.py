@@ -1,1 +1,1 @@
-print("Prueba desde laptop")
+print("Prueba desde laptop para GitHub")
